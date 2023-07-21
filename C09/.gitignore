@@ -1,0 +1,6 @@
+**/.DS_Store
+**/a.out
+**/test*
+**/*.swp
+test/
+ft_stock_str.h
